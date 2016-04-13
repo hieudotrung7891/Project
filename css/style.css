@@ -1,0 +1,16 @@
+.show-grid [class^="col-"]{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #eee;
+	border: 1px solid #ddd;
+	background-color: rgba(86,61,124,.15);
+	border: 1px solid rgba(86,61,124,.2);
+}
+.glyphicon{
+	font-size: 48px;
+	color: red;
+}
+body{
+	min-height: 1000px;
+	padding-top: 70px;
+}
